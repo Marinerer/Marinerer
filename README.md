@@ -1,13 +1,17 @@
-<h3 align="center">Yoo, I'm Mervin 👋</h3>
+<h3>Yoo, I'm Mervin 👋</h3>
 
 ---
 
+<!--
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=meqn&column=7&theme=onedark"/>
 </p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=meqn&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meqn&layout=compact&theme=tokyonight" alt="languages" height="165"/>
 </p>
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=meqn&show_icons=true&theme=tokyonight" alt="my github stats"/>
 
 <!--
 **Meqn/Meqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
