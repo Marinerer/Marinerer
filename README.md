@@ -1,4 +1,4 @@
-<h3>Yoo, I'm Mervin 👋</h3>
+<h3>Yoo, I'm Mariner 👋</h3>
 <!--
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=meqn&column=7&theme=onedark"/>
